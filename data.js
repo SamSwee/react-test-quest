@@ -1,0 +1,65 @@
+export const data = [
+    {
+        "name": "HTML5 Expert",
+        "url": "/images/insta_1.jpg",
+        "description": "After going through the HTML Learn tutorials, I am now an expert at HTML5!",
+        "date": "2022-01-01",
+        "type": "image/jpg",
+    },
+    {
+        "name": "CSS3 Expert",
+        "url": "/images/insta_2.jpg",
+        "description": "I had a lot of fun learning about Flexbox and Grid",
+        "date": "2022-11-5",
+        "type": "image/jpg",
+    },
+    {
+        "name": "JavaScript Expert",
+        "url": "/images/insta_3.jpg",
+        "description": "I learnt how to create functions and access the DOM",
+        "date": "2022-11-19",
+        "type": "image/jpg",
+    },
+    {
+        "name": "Avalanche Campaign Complete",
+        "url": "/images/insta_4.jpg",
+        "description": "I learnt how to use the different subnet and also the C-chain to make transactions.",
+        "date": "2022-12-13",
+        "type": "image/jpg",
+    },
+    {
+        "name": "Circle Campaign Complete",
+        "url": "/images/insta_5.jpg",
+        "description": "I learnt how to use Circle's APIs like Payment APIs which allows for USDC transactions to be made.",
+        "date": "2023-02-28",
+        "type": "image/jpg",
+    },
+    {
+        "name": "Filecoin Campaign Complete",
+        "url": "/images/insta_6.jpg",
+        "description": "I learnt all about the IPFS and Filecoin's technology that enables decentralised web storage.",
+        "date": "2023-04-11",
+        "type": "image/jpg",
+    },
+    {
+        "name": "Zilliqa Campaign Complete",
+        "url": "/images/insta_7.jpg",
+        "description": "I learnt the Scilla language and this was the campaign I minted an NFT ticket to Bern's concert!",
+        "date": "2022-09-06",
+        "type": "image/jpg",
+    },
+    {
+        "name": "Polkadot Campaign Complete",
+        "url": "/images/insta_8.jpg",
+        "description": "Learning about Substrate and how to use the different pallets makes creating my dApps on Polkadot flexible.",
+        "date": "2022-08-05",
+        "type": "image/jpg",
+    },
+    {
+        "name": "Algorand Campaign Complete",
+        "url": "/images/insta_9.jpg",
+        "description": "I enjoyed learning about GOAL, the CLI tool to create and manage Algorand Standard Assets.",
+        "date": "2022-07-25",
+        "type": "image/jpg",
+    }
+]
